@@ -23,7 +23,6 @@ h2 {
  border-bottom: 2px solid #000000;
  margin-left: 20px;
  text-align: left; 
- font-weight: 40px;
  font-family: 'Cormorant Garamond', serif; 
  font-family: 'Gupter', serif;
  }
@@ -72,9 +71,7 @@ ul a {
   color: #B83A14;
 }
 
-#currentdate {
- color:#B83A14;
-}
+
 
 span {
   font-weight: 700;
